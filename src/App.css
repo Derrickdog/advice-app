@@ -9,7 +9,7 @@ body {
 
 .app {
     height: 100vh;
-    background-image: url('./inspiration2.jpeg');
+    background-image: url('./inspiration.jpeg');
     background-attachment: fixed;
     display: flex;
     justify-content: center;

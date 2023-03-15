@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Advice App
+
+Live Demo: https://derrickdog.github.io/advice-app/
+
+## Description
+
+View advice quotes from AdviceAPI
+
+## React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
